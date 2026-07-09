@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+*.log
+.env.local
+.vite
+
+# tsc -b 残留产物
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+doc
+memory
+.idea
+.claude
+README_FULL.md
