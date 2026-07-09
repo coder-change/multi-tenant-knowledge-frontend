@@ -97,7 +97,7 @@ src/
 ## 环境要求
 
 - Node.js ≥ 18（推荐 20+）
-- 后端服务 [multi-tenant-knowledge](https://gitee.com/CoderChange/multi-tenant-knowledge) 运行于 `localhost:5173`
+- 后端服务 [multi-tenant-knowledge](https://github.com/coder-change/multi-tenant-knowledge) 运行于 `localhost:5173`
 
 ---
 
